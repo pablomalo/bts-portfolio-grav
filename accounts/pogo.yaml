@@ -1,0 +1,11 @@
+email: paul.gouin50@gmail.com
+fullname: 'Paul Gouin'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$4ykfkAooTpSPkg4RF4QL/OGv4PWE1F1Lg/04Yb93y1nZ7vHOVKHtW
